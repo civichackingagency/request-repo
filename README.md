@@ -1,2 +1,2 @@
 # request-repo
-Request a repo
+Request a civic hacking repo
